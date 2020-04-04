@@ -1,14 +1,14 @@
 {
-    "name": "certificationy/symfony-pack",
-    "type": "certificationy-pack",
-    "description": "A series of questions to prepare for the certification Symfony2",
+    "name": "cpana/symfony-pack",
+    "type": "symfony-pack",
+    "description": "A series of questions related to Symfony Framework",
     "keywords": ["symfony", "certification", "test", "exam"],
-    "homepage": "http://github.com/certificationy/symfony-pack",
+    "homepage": "https://github.com/cristianpana86/symfony-pack",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Mickaël Andrieu",
-            "email": "andrieu.travail@gmail.com"
+                {
+            "name": "Cristian Pana",
+            "email": "cristianpana86@yahoo.com"
         }
     ],
     "require-dev": {
